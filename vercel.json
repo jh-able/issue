@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd insight-app && npm run build",
+  "installCommand": "cd insight-app && npm install",
+  "outputDirectory": "insight-app/.next",
+  "framework": "nextjs",
+  "nodeVersion": "20.x"
+}
