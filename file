@@ -1,0 +1,4 @@
+npx create-next-app@latest insight-app
+# TypeScript, Tailwind CSS, App Router 모두 Yes 선택
+cd insight-app
+npm install lucide-react # 아이콘 라이브러리
